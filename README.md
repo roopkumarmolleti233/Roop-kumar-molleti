@@ -24,7 +24,7 @@ I enjoy working in **Agile/Scrum environments**, mentoring junior engineers, and
 
 ## 💼 Experience  
 
-### **HCL Technologies** – Lead Engineer *(Dec 2021 – Present, Chennai, India)*  
+### **HCL Technologies** – Lead Engineer *(Dec 2021 – june 2025, Chennai, India)*  
 **Projects:**  
 🔹 **Integrated Receiver and Decoder (IRD)** – Automated testing framework for digital TV broadcasting  
 🔹 **Open Media Distribution (OMD)** – QA and automation for media delivery platforms  
