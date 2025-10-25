@@ -1,19 +1,18 @@
 # Roop-kumar-molleti
-IT Professional | 3+ Yrs Exp in Python, Automation, STLC, CI/CD, and DevOps
+IT Professional | 4+ Yrs Exp in Python, Automation, STLC, CI/CD, and DevOps
 # 👋 Hi, I'm Molleti Roop Kumar  
 
-🚀 **Lead Engineer | Python Automation | Software Testing | DevOps Enthusiast**  
+🚀 **Software Quality Engineer II | Python Automation | Software Testing | DevOps Enthusiast**  
 
 📫 roopkumarmolleti233@gmail.com | 📱 +91-9640203557  
 🌍 [LinkedIn](https://linkedin.com/in/roop-kumar-molleti-914507225) | [GitHub](https://github.com/roopkumarmolleti233)
-
 ---
-
 ## 🧑‍💻 About Me
-I am an **IT professional with 3+ years of experience** in Python automation and software testing.  
-I specialize in:  
+I’m a results-driven Software Quality Engineer with 4+ years of experience in Python automation, software testing, and DevOps integration.
+I specialize in building scalable automation frameworks, optimizing CI/CD pipelines, and driving software quality excellence through intelligent, data-driven testing.
+**Core Expertise:**
 - ✅ End-to-End Testing (STLC)  
-- ✅ Test Automation (Pytest, Selenium, Robot, Behave)  
+- ✅ Test Automation (python, Pytest, Selenium, Robot, Behave)  
 - ✅ API Testing (Postman, REST APIs)  
 - ✅ CI/CD Pipeline Optimization (Jenkins, Docker)  
 - ✅ Monitoring & Analytics (ELK Stack, JMeter)  
@@ -23,6 +22,30 @@ I enjoy working in **Agile/Scrum environments**, mentoring junior engineers, and
 ---
 
 ## 💼 Experience  
+
+### Tanla Platforms – Software Quality Engineer – II *(June 2025 – Present, Hyderabad, India)* 
+
+**Projects:**
+    **🧠 Wisely:** An AI-driven, blockchain-secured CPaaS platform enabling secure enterprise communication across SMS, RCS, and OTT channels. Ensures data integrity, real-time analytics, and global compliance.
+    
+    **💬 MAAP (Mobile Messaging Application Platform)**: A cloud-native RCS and messaging solution for telecom operators delivering rich, interactive, and secure communications with AI-based routing and scalable microservices architecture.
+
+**Key Contributions**
+
+⚙️ Automation Development & Framework Implementation:
+Designed and implemented scalable automation frameworks using Python, Selenium, PyTest, and Robot Framework for API and UI testing. Spearheaded the development of new test frameworks to meet evolving project needs and boost efficiency.
+
+🤖 AI-Driven Test Optimization:
+Applied AI/ML techniques for test case prioritization, failure prediction, and anomaly detection—enhancing test coverage and reducing manual effort.
+
+🧪 End-to-End Quality Ownership:
+Led comprehensive functional, regression, and system testing, ensuring feature robustness, scalability, and performance.
+
+📊 Monitoring & Observability:
+Integrated ELK Stack and Grafana for real-time log monitoring, performance insights, and proactive issue detection.
+
+🔄 Agile Collaboration:
+Partnered with cross-functional teams in Agile/Scrum settings—actively engaging in sprint planning, daily stand-ups, and retrospectives to ensure continuous delivery and improvement.
 
 ### **HCL Technologies** – Lead Engineer *(Dec 2021 – june 2025, Chennai, India)*  
 **Projects:**  
@@ -91,7 +114,7 @@ I enjoy working in **Agile/Scrum environments**, mentoring junior engineers, and
   Excellent communication & cross-functional collaboration
 
 ---
-🎓 Education
+**🎓 Education**
 
   🎓 B.Tech – Electronics & Communication Engineering (ECE)
   Vignan's Institute of Information Technology, Visakhapatnam
@@ -107,28 +130,27 @@ I enjoy working in **Agile/Scrum environments**, mentoring junior engineers, and
 
 ---
 
-📌 Featured Projects
-
+**📌 Featured Projects**
     🔹 Python Test Automation Framework
-    Developed a modular Pytest-based framework for REST API and web automation.
-    Integrated Selenium + Robot + Behave for hybrid automation
-    Increased test coverage by 40% while reducing manual effort
+        Developed a modular Pytest-based framework for REST API and web automation.
+        Integrated Selenium + Robot + Behave for hybrid automation
+        Increased test coverage by 40% while reducing manual effort
     🔹 CI/CD Pipeline with Jenkins & Docker
-    Designed and implemented a CI/CD pipeline in a DevOps environment.
-    Automated build, test, and deployment across environments
-    Used Docker for containerization ensuring consistent deployments
+        Designed and implemented a CI/CD pipeline in a DevOps environment.
+        Automated build, test, and deployment across environments
+        Used Docker for containerization ensuring consistent deployments
     🔹 Log Monitoring with ELK Stack
-    Built a real-time log monitoring system using Elasticsearch, Logstash & Kibana.
-    Automated log collection from test environments
-    Enabled quick debugging and analytics for QA and Dev teams
+        Built a real-time log monitoring system using Elasticsearch, Logstash & Kibana.
+        Automated log collection from test environments
+        Enabled quick debugging and analytics for QA and Dev teams
     🔹 Performance Testing with JMeter
-    Conducted load & stress testing for large-scale media distribution systems.
-    Created reusable JMeter scripts for REST APIs
-    Improved system reliability under peak loads
-    🔹 Open Media Distribution (OMD) QA Automation
-    Automated end-to-end testing for multi-platform media distribution.
-    Validated APIs, UI, and backend workflows
-    Improved release quality and reduced regression time
+        Conducted load & stress testing for large-scale media distribution systems.
+        Created reusable JMeter scripts for REST APIs
+        Improved system reliability under peak loads
+    🔹 QA Automation
+        Automated end-to-end testing for multi-platform media distribution.
+        Validated APIs, UI, and backend workflows
+        Improved release quality and reduced regression time
 
 ---
 
