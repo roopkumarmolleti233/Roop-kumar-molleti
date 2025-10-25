@@ -31,7 +31,8 @@ I enjoy working in **Agile/Scrum environments**, mentoring junior engineers, and
     
     **💬 MAAP (Mobile Messaging Application Platform)**: A cloud-native RCS and messaging solution for telecom operators delivering rich, interactive, and secure communications with AI-based routing and scalable microservices architecture.
 
-🔑 Key Contributions
+🔑 Key Contributions:
+
       ⚙️ Automation Development & Framework Implementation:
       Designed and implemented scalable automation frameworks using Python, Selenium, PyTest, and Robot Framework for API and UI testing. Spearheaded the development of new test frameworks to meet evolving project needs and boost efficiency.
       
@@ -49,7 +50,8 @@ I enjoy working in **Agile/Scrum environments**, mentoring junior engineers, and
 🔹 **Integrated Receiver and Decoder (IRD)** – Automated testing framework for digital TV broadcasting  
 🔹 **Open Media Distribution (OMD)** – QA and automation for media delivery platforms  
 
-🔑 Key Contributions
+🔑 Key Contributions:
+
     🧪 End-to-End Testing across the STLC, ensuring compliance with industry QA standards.
     
     🐍 Developed Python-based automation frameworks using Pytest, Selenium, Behave, and Robot Framework, improving test coverage by 40%+.
