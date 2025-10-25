@@ -129,7 +129,8 @@ I enjoy working in **Agile/Scrum environments**, mentoring junior engineers, and
 
 ---
 
-**📌 Featured Projects**
+📌 Featured Projects:
+
     🔹 Python Test Automation Framework
         Developed a modular Pytest-based framework for REST API and web automation.
         Integrated Selenium + Robot + Behave for hybrid automation
