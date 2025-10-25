@@ -31,19 +31,18 @@ I enjoy working in **Agile/Scrum environments**, mentoring junior engineers, and
     
     **💬 MAAP (Mobile Messaging Application Platform)**: A cloud-native RCS and messaging solution for telecom operators delivering rich, interactive, and secure communications with AI-based routing and scalable microservices architecture.
 
-**Key Contributions**
-
-   ⚙️ Automation Development & Framework Implementation:
-   Designed and implemented scalable automation frameworks using Python, Selenium, PyTest, and Robot Framework for API and UI testing. Spearheaded the development of new test frameworks to meet evolving project needs and boost efficiency.
-   
-   🧪 End-to-End Quality Ownership:
-   Led comprehensive functional, regression, and system testing, ensuring feature robustness, scalability, and performance.
-   
-   📊 Monitoring & Observability:
-   Integrated ELK Stack and Grafana for real-time log monitoring, performance insights, and proactive issue detection.
-   
-   🔄 Agile Collaboration:
-   Partnered with cross-functional teams in Agile/Scrum settings—actively engaging in sprint planning, daily stand-ups, and retrospectives to ensure continuous delivery and improvement.
+🔑 Key Contributions
+      ⚙️ Automation Development & Framework Implementation:
+      Designed and implemented scalable automation frameworks using Python, Selenium, PyTest, and Robot Framework for API and UI testing. Spearheaded the development of new test frameworks to meet evolving project needs and boost efficiency.
+      
+      🧪 End-to-End Quality Ownership:
+      Led comprehensive functional, regression, and system testing, ensuring feature robustness, scalability, and performance.
+      
+      📊 Monitoring & Observability:
+      Integrated ELK Stack and Grafana for real-time log monitoring, performance insights, and proactive issue detection.
+      
+      🔄 Agile Collaboration:
+      Partnered with cross-functional teams in Agile/Scrum settings—actively engaging in sprint planning, daily stand-ups, and retrospectives to ensure continuous delivery and improvement.
 
 ### **HCL Technologies** – Lead Engineer *(Dec 2021 – june 2025, Chennai, India)*  
 **Projects:**  
