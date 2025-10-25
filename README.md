@@ -26,8 +26,7 @@ I enjoy working in **Agile/Scrum environments**, mentoring junior engineers, and
 ### Tanla Platforms – Software Quality Engineer – II *(June 2025 – Present, Hyderabad, India)* 
 
 **Projects:**
-    **🧠 Wisely:** An AI-driven, blockchain-secured CPaaS platform enabling secure enterprise communication across SMS, RCS, and OTT channels. Ensures data integrity, real-time analytics, and global compliance.
-    
+    **🧠 Wisely**:An AI-driven, blockchain-secured CPaaS platform enabling secure enterprise communication across SMS, RCS, and OTT channels. Ensures data integrity, real-time analytics, and global compliance.
     **💬 MAAP (Mobile Messaging Application Platform)**: A cloud-native RCS and messaging solution for telecom operators delivering rich, interactive, and secure communications with AI-based routing and scalable microservices architecture.
 
 **Key Contributions**
